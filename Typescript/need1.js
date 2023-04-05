@@ -7,6 +7,4 @@ employee = 1232 // number
 console.log(employee);
 
 
-function call(employee){
-    
-}
+// The need for typescript is Typesafety.
