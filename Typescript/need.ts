@@ -1,3 +1,3 @@
-let empName = "Masood" // string
+// let empName = "Masood" // string
 
-empName = 123 // number
+// empName = 123 // number
