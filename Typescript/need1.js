@@ -1,4 +1,5 @@
-let employee = "Masood" // string
+let employee = "Masood" // string 
+// the employee here could be name or ID, so we have specified it to be a string here
 
 console.log(employee);
 

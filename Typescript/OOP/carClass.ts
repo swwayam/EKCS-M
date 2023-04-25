@@ -29,12 +29,12 @@ class Cars implements Car{ // creating a new class here by importing data types 
 let car1 = new Cars("Maruti 100", "100", 1995, "Red", "c")
 let car2 = new Cars("Maruti Omni", "Omni", 1998, "Blue", "c")
 
-let car3 : Car = {
+let car3 : Cars = {
     name: "Maruti",
     model: "300",
     year: 2004,
     
-   // tyre: 'red' // this will give an error because the 'Car' interface (from interface.ts) doesn't have the 'tyre' data type
+   tyre: 'red' // this will give an error because the 'Car' interface (from interface.ts) doesn't have the 'tyre' data type
 }
 
 console.log(car1.carRun())
