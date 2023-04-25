@@ -1,22 +1,22 @@
-let name = "Masood" // String
+// let name = "Masood" // String
 
-// automatically detect kar leta
+// // automatically detect kar leta
 
-// jab data type change hota you get an error
-name = 12323
+// // jab data type change hota you get an error
+// name = 12323
 
-let phoneName : string;
+// let phoneName : string;
 
-car = "iphone"
-car = 21321
+// car = "iphone"
+// car = 21321
 
-let phoneModel : number;
+// let phoneModel : number;
 
-phoneModel = 14
+// phoneModel = 14
 
-let isProSeries : boolean;
+// let isProSeries : boolean;
 
-isProSeries = false
+// isProSeries = false
 
 
-export {}
+// export {}
